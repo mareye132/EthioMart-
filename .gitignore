@@ -1,0 +1,10 @@
+# Ignore CSV files
+*.csv
+
+# Ignore media directory
+/photos/
+/media_files/
+
+# Ignore specific file
+telegram_data.csv
+/scripts/labeled_data.conll
